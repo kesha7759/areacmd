@@ -1,0 +1,15 @@
+C:\tosts\dotnet\AreaCmd\AreaCmd\bin\Debug\net6.0\AreaCmd.exe
+C:\tosts\dotnet\AreaCmd\AreaCmd\bin\Debug\net6.0\AreaCmd.deps.json
+C:\tosts\dotnet\AreaCmd\AreaCmd\bin\Debug\net6.0\AreaCmd.runtimeconfig.json
+C:\tosts\dotnet\AreaCmd\AreaCmd\bin\Debug\net6.0\AreaCmd.dll
+C:\tosts\dotnet\AreaCmd\AreaCmd\bin\Debug\net6.0\AreaCmd.pdb
+C:\tosts\dotnet\AreaCmd\AreaCmd\obj\Debug\net6.0\AreaCmd.csproj.AssemblyReference.cache
+C:\tosts\dotnet\AreaCmd\AreaCmd\obj\Debug\net6.0\AreaCmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\tosts\dotnet\AreaCmd\AreaCmd\obj\Debug\net6.0\AreaCmd.AssemblyInfoInputs.cache
+C:\tosts\dotnet\AreaCmd\AreaCmd\obj\Debug\net6.0\AreaCmd.AssemblyInfo.cs
+C:\tosts\dotnet\AreaCmd\AreaCmd\obj\Debug\net6.0\AreaCmd.csproj.CoreCompileInputs.cache
+C:\tosts\dotnet\AreaCmd\AreaCmd\obj\Debug\net6.0\AreaCmd.dll
+C:\tosts\dotnet\AreaCmd\AreaCmd\obj\Debug\net6.0\refint\AreaCmd.dll
+C:\tosts\dotnet\AreaCmd\AreaCmd\obj\Debug\net6.0\AreaCmd.pdb
+C:\tosts\dotnet\AreaCmd\AreaCmd\obj\Debug\net6.0\AreaCmd.genruntimeconfig.cache
+C:\tosts\dotnet\AreaCmd\AreaCmd\obj\Debug\net6.0\ref\AreaCmd.dll

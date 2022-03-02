@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AreaCmd/v17/.suo
+/.vs/AreaCmd/v17/.futdcache.v1
+/.vs/AreaCmd/v17
+/.vs/AreaCmd/DesignTimeBuild/.dtbcache.v2
+/.vs/AreaCmd/DesignTimeBuild
+/.vs/AreaCmd
